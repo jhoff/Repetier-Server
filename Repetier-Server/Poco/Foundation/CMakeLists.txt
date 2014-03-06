@@ -29,7 +29,7 @@ SET(FOUNDATION_SOURCES ${FOUNDATION_SOURCES}
     src/ArchiveStrategy.cpp
     src/Ascii.cpp
     src/ASCIIEncoding.cpp
-    src/AsyncCHannel.cpp
+    src/AsyncChannel.cpp
     src/AtomicCounter.cpp
     src/Base64Decoder.cpp
     src/Base64Encoder.cpp
@@ -94,7 +94,7 @@ SET(FOUNDATION_SOURCES ${FOUNDATION_SOURCES}
     src/NamedMutex.cpp
     src/NestedDiagnosticContext.cpp
     src/Notification.cpp
-    src/Notificationcenter.cpp
+    src/NotificationCenter.cpp
     src/NotificationQueue.cpp
     src/NullChannel.cpp
     src/NullStream.cpp
